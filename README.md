@@ -10,6 +10,7 @@
 Для включения слэщ-команд поставить значения в config.js SLASH = true, CONTEXT = true, GLOBAL = true, а также вставить ID канала в TEST_GUILD_ID
 
 >Установка пакетов
+
 ```npm install```
 
 >Запуск бота
