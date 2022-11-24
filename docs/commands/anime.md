@@ -7,8 +7,8 @@ description: 10 commands
 ### Reactions
 
 - **Description**: anime reactions
-- **Command Usage**: `!anime <reaction>`
-- **Slash Usage**: `/anime`
+- **Command Usage**: `.react <reaction>`
+- **Slash Usage**: `/react`
 - **Cooldown**: 5 seconds
 
 |      |      |        |
