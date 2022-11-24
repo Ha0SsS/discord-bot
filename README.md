@@ -10,10 +10,14 @@
 Для включения слэщ-команд поставить значения в config.js SLASH = true, CONTEXT = true, GLOBAL = true, а также вставить ID канала в TEST_GUILD_ID
 
 >Установка пакетов
+```
 npm install
-
+```
 >Запуск бота
-node bot.js или npm run start
+```node bot.js
+```
+или 
+```npm run start```
 
 Функционал бота можно узнать через /help (вместо слэш ваш префикс)
 
