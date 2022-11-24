@@ -14,3 +14,12 @@ npm install
 node bot.js или npm run start
 
 Функционал бота можно узнать через /help (вместо слэш ваш префикс)
+
+Для настройки мониторинга вставьте http://localhost:8080/api/callback в ваше приложение OAuth2 на портале разработчиков дискорд
+
+  DASHBOARD: {
+    enabled: true, // enable or disable dashboard
+    baseURL: "http://localhost:8080", // base url
+    failureURL: "http://localhost:8080", // failure redirect url
+    port: "8080", // port to run the bot on
+  },
