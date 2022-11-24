@@ -12,13 +12,13 @@
     "dev": "nodemon .",
     "start": "node ."
   },
-  "homepage": "https://github.com/saiteja-madha/discord-js-bot#readme",
+  "homepage": "https://github.com/Ha0SsS/discord-bot/blob/main/README.md",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/saiteja-madha/discord-js-bot.git"
+    "url": "git+https://github.com/Ha0SsS/discord-bot.git"
   },
   "bugs": {
-    "url": "https://github.com/saiteja-madha/discord-js-bot/issues"
+    "url": "https://github.com/Ha0SsS/discord-bot/issues"
   },
   "dependencies": {
     "@lavaclient/queue": "^2.1.1",
