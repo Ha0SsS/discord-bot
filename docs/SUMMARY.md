@@ -16,9 +16,7 @@
   - [🧑 Social](commands/social.md)
   - [📈 Stats](commands/stats.md)
   - [🛠 Utility](commands/utility.md)
-- [🗒 Contexts](contexts.md)
 
 ## Additional
 
-- [✍ Guides](additional/installation.md)
-- [❓ FAQ](additional/faq.md)
+- [❓ FAQ](README.md)
