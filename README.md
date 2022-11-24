@@ -1,5 +1,7 @@
 # discord-bot
 
+# ❓ FAQ
+
 Требуется: Node.js, discord.js, MongoDB
 
 Редактировать функционал можно в config.js отключая/включая определенные функции
