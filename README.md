@@ -21,7 +21,7 @@
 
 Функционал бота можно узнать через /help (вместо слэш ваш префикс)
 
-Для настройки мониторинга вставьте http://localhost:8080/api/callback в ваше приложение OAuth2 на ([портале разработчиков дискорд](https://discord.com/developers/applications))
+Для настройки мониторинга вставьте http://localhost:8080/api/callback в ваше приложение OAuth2 на [портале разработчиков дискорд](https://discord.com/developers/applications)
 
 ```
  DASHBOARD: {
