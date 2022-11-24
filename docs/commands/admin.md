@@ -85,7 +85,6 @@ _Enabling this feature will allow members to simply react to any message with a 
 - **Description**: configure flag translation in the server
 - **Usage**: `!flagtr <on|off>`
 
-![](../.gitbook/assets/image.png)
 
 ### Auto Role
 
